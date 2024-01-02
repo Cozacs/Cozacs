@@ -6,7 +6,7 @@ Here is where i will try to make the impossible became true so have a sit and en
 Aqui é onde eu vou tentar fazer o impossivel então sente confortavelmente e curta os repositorios.
 
 [Portfolio Dev](https://cozacdev.com.br)<br>
-<img src=https://media.giphy.com/media/ExQeg26SpKkXtSiGfX/giphy.gif>
+<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVkZndmMWR6dzZjYnowODFhc2c4ZjZzaTFpM25jdnJ4NW42a2lqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HFPdoCEJOeCJNrYlms/giphy.gif>
 
 ## Development Tecnologies
 ## Tecnologias de desenvolvimento
