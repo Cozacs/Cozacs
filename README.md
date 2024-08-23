@@ -1,9 +1,9 @@
-# Hi my dear Dev be welcome to **COZAC'S LAND**
-# Fala meu querido Dev seja bem vindo a **ILHA DO COZACS**
+# Hi my dear Dev be welcome
+# Fala meu querido Dev seja bem vindo
 <img align:right height=200px style="display: inline" src=assets/TurnDown4Wut.png>
 
-Here is where i will try to make the impossible became true so have a sit and enjoy the Repositories.<br>
-Aqui é onde eu vou tentar fazer o impossivel então sente confortavelmente e curta os repositorios.
+Here is where i will try to make my dreams became true so have a sit and enjoy the Repositories.<br>
+Aqui é onde eu vou tentar fazer meus sonhos se tornarem realidade então sente confortavelmente e curta os repositorios.
 
 [Portfolio Dev](https://cozacdev.com.br)<br>
 <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVkZndmMWR6dzZjYnowODFhc2c4ZjZzaTFpM25jdnJ4NW42a2lqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HFPdoCEJOeCJNrYlms/giphy.gif>
